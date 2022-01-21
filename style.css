@@ -1,0 +1,115 @@
+
+header{
+    background-color:#334960 ;
+}
+.block1{
+    padding-top: 15px;
+    display: flex;
+}
+.right{
+    color: lightgray;
+   
+}
+.right i{
+}
+.left{
+    color:lightgray
+}
+.left i{
+ 
+}
+
+
+.navbar-brand{
+    color: white;
+    font-family:'italic';
+    margin: 20px;
+    font-size: 50px;
+}
+
+/* .navbar-toggler{
+    background: rgba(255,255, 255,0.2);
+    
+} */
+.navbar-collapse ul li {
+    margin-right: 30px;
+}
+.nav-item  .nav-link {
+    color: lightgray;
+}
+.nav-item  .nav-link:hover{
+    color:white ;
+}
+img {
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+   
+}
+.one{
+    height: 650px;
+    width: 100%;
+    background-color: ghostwhite;
+   
+}
+.mot{
+    margin-top: 50px;
+}
+.encadre{
+    width: 100%;
+    height: 250px;
+}
+.formulaire{
+ background-color: dodgerblue;
+    width: 400px;
+    padding-top: 20px;
+    margin-top: 50px;
+    border-radius: 5px; 
+}
+h4{
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+.texte p{
+    color: white;
+    font-family: 'italic';
+    text-align: center;
+}
+form{
+    height: 200px;
+    margin: 30px; 
+      
+}
+form button{
+    width: 340px;
+}
+
+.two{
+    height: 800px;
+    background-color: ghostwhite;
+    padding: 0px 5rem;
+    
+}
+.titre1{
+    padding-top: 20px;
+    text-align: center;
+}
+.partie1{
+    background-image: url("section.jpeg") ;
+    height: 700px;
+}
+.third{
+    height: 700px;
+}
+.titre2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+
+/* --------------------------------------------------------*/
+
